@@ -9,5 +9,4 @@ This is a Node.js-based web application that fetches movie details from the OMDB
    npm install
 
 2. Run the project:
- ```bash
     npm run start
